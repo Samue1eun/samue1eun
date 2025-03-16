@@ -1,5 +1,12 @@
 # 💫 About Me:
-I am a software engineer passionate about bringing making the consumer experience memorable.
+I am a holitic software engineer that is passionate about the implementation of real human experiences and emotions into web applications.
+
+Currently I am learning:
+
+- FastAPI
+- Go
+- Framer Motion
+
 
 
 ## 🌐 Socials:
